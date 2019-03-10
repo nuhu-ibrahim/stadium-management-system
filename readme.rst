@@ -5,7 +5,7 @@ Stadium Management System developed using the CodeIgniter Framework
 ###################
 How to Install
 ###################
-Create a database with the name "stadium" then import file stadium.sql in the /db folder to the newly created database.
+Create a database with the name "stadium_management" then import file stadium_management.sql in the project root folder to the newly created database.
 
 ###################
 Final note
